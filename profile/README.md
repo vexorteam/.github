@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/vexor-logo-white.png" width="300" height="300" alt="Vexor logo" />
+  <img src="../assets/vexor-logo-white.png" width="300" height="300" alt="Vexor logo" />
   
   #
   
