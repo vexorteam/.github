@@ -30,7 +30,7 @@ _We are a small team of developers and designers from Ukraine. Not a corporation
 | 📱 | **Mobile application** | iOS and Android at once, with a native feel and smooth animations |
 | ⚙️ | **Web platform / SaaS** | Personal dashboard, CRM, admin panel, internal tools with API |
 | 🎨 | **Product design** | UI/UX from scratch or redesign — Figma prototype ready to present |
-| 🤖 | **Automation** | Telegram bots, service integrations, webhook automation |
+| 🤖 | **Automation and AI** | Telegram bots, ai integration service integrations, webhook automation |
 | 🔧 | **Support & growth** | New features, bug fixes, performance and security optimization |
 
 <br/>
